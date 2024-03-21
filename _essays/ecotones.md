@@ -11,7 +11,7 @@ Nonetheless, I share the view of author Gretchen Legler, a fellow hunter, that "
 
 Despite my singular experience, I want to better understand the wolf controversy in Idaho. Throughout my time at the University of Idaho, I studied the history of wolf reintroduction, the ecology of wolves and the capabilities of ecological art. These areas of study led me to create a fountain titled "Jaws of Life" (2022), which explored trophic cascade and interconnectivity of wolves, deer, beavers, and water tables. 
 
-{% include feature/video.html objectid="https://youtu.be/_cLJId8hwv4" caption=false %}
+{% include feature/video.html objectid="https://youtu.be/_cLJId8hwv4" width=75 caption=false %}
 
 Throughout my investigation of wolf reintroduction, I'm primarily interested in the interconnectivity of systems and discourses. As Alexa Weik von Mossner aptly puts it, "New nature writing [is] concerned with the disorderly and dirty 'edgelands' between human society and the natural wild, rather than with wilderness as separate space" (38). For this reason, I wanted to explore more dimensions to wolf reintroduction, finding edgelands between regional viewpoints--spaces that we define for wolves.
 
