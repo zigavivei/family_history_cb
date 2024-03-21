@@ -10,7 +10,7 @@ body {
 }
 
 // essay styles
-.essay-title {
+.display-4.essay-title {
     margin-top: 4rem;
     margin-bottom: 2rem;
 }
@@ -25,7 +25,10 @@ body {
 
 }
 
-.black-button:hover {
-    background-color: #555555;
-    color: white;
+.mx-auto {
+    padding: 20px;
+}
+
+.figure.mx-3 {
+    padding: 20px;
 }
