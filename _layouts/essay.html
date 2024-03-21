@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="container my-4 about-contents">
+    <h1 class="display-4 essay-title">{{ page.title }} {% if page.byline %}<br><span class="fs-5 ms-5">{{ page.byline }}</span>{% endif %}</h1>
+
+    {{ content }}
+
+    <div class="row next-buttons mt-5">
+        <div class="col-md mb-4 text-start">{% if page.previous %}<a class="display-6 fs-2 text-dark" href="{{ page.previous.url | relative_url }}">&laquo; {{ page.previous.title }}</a>{% endif %}</div>
+        <div class="col-md mb-4 text-end">{% if page.next %}<a class="display-6 fs-2 text-dark" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &raquo;</a>{% endif %}</div>
+    </div>
+</div>
+
