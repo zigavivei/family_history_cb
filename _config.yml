@@ -11,6 +11,7 @@
 url: https://zigavivei.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /genealogy_test
+# change name on github and then this to match it
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -18,7 +19,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Genealogy Test
+title: Family History and CollectionBuilder
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations

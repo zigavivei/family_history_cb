@@ -1,9 +1,9 @@
 ---
-title: Why Multimodality?
+title: Why CollectionBuilder?
 order: 1
 byline: by Flori Tulli
 layout: essay
-permalink: /multimodality.html
+permalink: /1whycollectionbuilder.html
 ---
 
 Wolf... a word that carries a lot of weight, especially in the state of Idaho. Opinions range from a supportive yearning for wilderness to a fervent desire to secure safe, usable land. While both proponents and opponents of wolves hold valid concerns about reintroduction, their conflicting discourses have turned the wolf into a controversial, polarizing figure. How did it come to this? How do we navigate the current discourses surrounding wolves? And how do wolves, in turn, navigate the landscape shaped by our discourses? My hope is that this project can act as a catalyst for conversation, one that allows viewers to see the various dimensions surrounding the topic of wolf reintroduction in Idaho.
