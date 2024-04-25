@@ -1,11 +1,14 @@
 ---
-title: Ecotones and Opinions
+title: Family History
 order: 2
 layout: essay
-permalink: /ecotones.html
+permalink: /2family_history.html
 ---
 
-I have always been fascinated by ecotones--spaces where human and nonhuman elements intersect and interact. Wolf reintroduction, or the return of megafauna to their former habitat, is no exception. While I am a proponent of wolf reintroduction, I acknowledge that I am also an outsider to the issue. My perspective is limited to one experience--that of a Natural Lands Trust volunteer from Pennsylvania--a hunter who sustainably managed whitetail deer populations. My actions functioned to replace deer's natural predators while also feeding my family. If more coyotes or wolves were present in my home state, hunting would undoubtedly be harder--prey would be more spooked and/or less abundant.
+I put my thoughts on family history here. And I add here and save while server is running.
+
+
+ have always been fascinated by ecotones--spaces where human and nonhuman elements intersect and interact. Wolf reintroduction, or the return of megafauna to their former habitat, is no exception. While I am a proponent of wolf reintroduction, I acknowledge that I am also an outsider to the issue. My perspective is limited to one experience--that of a Natural Lands Trust volunteer from Pennsylvania--a hunter who sustainably managed whitetail deer populations. My actions functioned to replace deer's natural predators while also feeding my family. If more coyotes or wolves were present in my home state, hunting would undoubtedly be harder--prey would be more spooked and/or less abundant.
 
 Nonetheless, I share the view of author Gretchen Legler, a fellow hunter, that "They aren't our deer... They are the wolves' deer first" (22). In _All the Powerful Invisible Things: A Sportswoman's Notebook_, Legler reasons that while hunting is a privilege for modern man, it is survival for wolves (26). However, unlike elk or moose in Idaho, whitetail deer are overabundant everywhere in Pennsylvania--from forests to city outskirts--so it is necessary to acknowledge the different frustrations of Idaho's hunters. I am also not a rancher, whose livelihood is staked in protecting cattle, nor am I someone who has lost a pet to wolves. Granted, my pet rabbit was killed in her hutch one night--perhaps by a fox or a raccoon--but I do not hold hatred toward those species. Regardless, my intention is to listen closely to the regional viewpoints about wolves in Idaho in order to better understand the controversy.  
 

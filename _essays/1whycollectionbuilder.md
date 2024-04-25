@@ -1,10 +1,14 @@
 ---
 title: Why CollectionBuilder?
 order: 1
-byline: by Flori Tulli
+byline: by Samuel Howard
 layout: essay
 permalink: /1whycollectionbuilder.html
 ---
+
+Abstract
+CollectionBuilder is "an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology" developed by the University of Idaho. This project aimed to test the feasibility and framework of CollectionBuider within the scope of presenting family history research and reports. Acting as a new user, the project helped refine documentation, walkthroughs, and tutorials. The outcome of this project is a family history research report, the first family history report developed within CollectionBuilder, as well as a review of my experience and efficacy of CollectionBuilder in presenting family history work.
+
 
 Wolf... a word that carries a lot of weight, especially in the state of Idaho. Opinions range from a supportive yearning for wilderness to a fervent desire to secure safe, usable land. While both proponents and opponents of wolves hold valid concerns about reintroduction, their conflicting discourses have turned the wolf into a controversial, polarizing figure. How did it come to this? How do we navigate the current discourses surrounding wolves? And how do wolves, in turn, navigate the landscape shaped by our discourses? My hope is that this project can act as a catalyst for conversation, one that allows viewers to see the various dimensions surrounding the topic of wolf reintroduction in Idaho.
 

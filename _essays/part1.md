@@ -1,5 +1,5 @@
 ---
-title: "Designing the Base"
+title: Project Goal and Summary of Findings
 order: 3
 layout: essay
 permalink: /part1.html
