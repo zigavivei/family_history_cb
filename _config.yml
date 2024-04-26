@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://zigavivei.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /genealogy_test
+baseurl: /family_history_cb
 # change name on github and then this to match it
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
