@@ -2,16 +2,36 @@
 title: Project Goal and Summary of Findings
 order: 3
 layout: essay
-permalink: /part1.html
+permalink: /3goalandsummary.html
 ---
 
 {% include feature/video.html objectid="https://youtu.be/Flzn3uMWs2w" caption=false width="full" %}
 
-Creating an art piece and website was definitely taking the road less traveled by--and gratefully one supported by my advisors and mentors. Throughout this process, there were ups and downs, twists and turns, disorientation, and eventual clarity. In retrospect, I believe that straddling between the expectations of a graduate student in English and an ecological artist made encompassing both accuracy and instinctual vision much harder. As a writer, I want to create a nuanced, well-researched discourse--as an artist, I prefer creating simpler schematizations of figures, capturing their raw essence. To use multiple modes effectively, I would need to blur the lines between these different expectations and get out of my comfort zones.
+## Project Goal
 
-Ultimately, I decided on collaging. After buying a 2'x4' hardboard, I printed out maps of Idaho, Montana, and Wyoming and began sketching national parks, reservations, and city hubs on them--areas where literature would be very specific. Washington and Oregon followed soon after, having their own wolf discourses. I measured out these maps onto the hardboard, where I faced another dilemma: How much literature would I be encompassing? How many regions and visuals? How many wolves, and which ones? What time period would all elements be in? Would I have enough time to create an accompanying website? 
+The goal of this project was to find as much information as possible about Clarence Knuckles and Odessa Smith through a search of census and vital records. The same work was also done in researching Clarence Knuckles' parents, Isiah Knuckles and Elizabeth Hardy. 
 
-Stepping back, I had a realistic conversation with myself and decided that each state could potentially be its own piece--if I was making a concentration or a mural. With one semester to nurture and grow this project, I would need to go back to "simplicity," which led me to settle my research and efforts on Idaho. I decided to build off of my initial research into Idaho Senate Bill 1211 and add more discourse to the landscape--expressing the abstraction and disruption views can have on spaces. Adding to this conviction, I have had more experience living in Idaho than other states in the Pacific Northwest, as well as speaking with researchers and locals here. I found myself leaning toward quality over quantity.
+## Summary of Findings
+
+Most of the Relevant Censuses were found for Clarence, Odessa, Isiah, and Elizabeth. The 1930 and 1940 census records help prove a marriage between Clarence and Odessa, even though a marriage record was not found.[(1)](https://zigavivei.github.io/family_history_cb/sources.html)
+
+In the case of Isiah and Elizabeth, their appearance together in the 1900, 1910, and 1920 census help to prove their marriage.[(2)](https://zigavivei.github.io/family_history_cb/sources.html)
+
+Death Certificates of Clarence and Elizabeth help to piece together family information and help prove their marriages as well.[(3)](https://zigavivei.github.io/family_history_cb/sources.html)
+
+The presumed gravestone of Isiah has "Rev." before his name which suggests that he was a reverend, most likely a reverend of the Mulberry church in whose cemetery he was buried.[(4)](https://zigavivei.github.io/family_history_cb/sources.html) Further research into the history of the cemetery revealed that a prominent member of the society, Samuel Knuckles, one of the first African American representatives, in the south, was also buried there. He had served in the South Carolina House of Representatives during Reconstruction.[(5)](https://zigavivei.github.io/family_history_cb/sources.html) An Isiah appears in the 1870 census along with his father named Samuel.[(6)](https://zigavivei.github.io/family_history_cb/sources.html) It could be that Isiah was the son of Samuel and their ties to the church caused Isiah to become a reverend there. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 This decision helped immensely. Not only was I able to focus my research, but I was also able to provide CDIL with a more concrete outline of the website--primarily the interactive map.
 

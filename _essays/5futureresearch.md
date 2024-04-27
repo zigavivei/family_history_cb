@@ -1,8 +1,8 @@
 ---
-title: "Designing the Wolves"
+title: Future Research of the Knuckles Family
 order: 5
 layout: essay
-permalink: /part3.html
+permalink: /5futureresearch.html
 ---
 
 {% include feature/video.html objectid="https://youtu.be/PNXzYmDh7SA" caption=false width="full" %}

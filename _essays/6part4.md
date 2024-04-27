@@ -2,7 +2,7 @@
 title: "Designing the Final Layer"
 order: 6
 layout: essay
-permalink: /part4.html
+permalink: /6part4.html
 ---
 
 {% include feature/video.html objectid="https://youtu.be/ykhLVeEXBzw" caption=false width="full" %}

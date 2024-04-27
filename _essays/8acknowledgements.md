@@ -2,7 +2,7 @@
 title: Acknowledgements
 order: 8
 layout: essay
-permalink: /acknowledgements.html
+permalink: /8acknowledgements.html
 ---
 
 Ecological art is not made in isolation, but rather through collaboration. I would like to thank my sister Fiamma for fervently urging me to continue making art and offering her invaluable expertise--my graduation project advisor, Scott Slovic, and the English Department's Director of Graduate Studies, Zack Turpin, for encouraging me to take the path less traveled by--my directed study professor, David Roon, for helping me to focus my vision and for providing me with a critical eye and practical advice for executing my process--and my mentor, the Acting Director of First Year Composition, Katie Krahn, for emphasizing the documentation of process and experimenting with different modes, which truly enabled me to achieve the many dimensions of my project.

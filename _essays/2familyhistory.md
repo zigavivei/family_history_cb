@@ -1,11 +1,11 @@
 ---
-title: Family History
+title: Why Family History?
 order: 2
 layout: essay
 permalink: /2family_history.html
 ---
 
-I put my thoughts on family history here. And I add here and save while server is running.
+I put my **thoughts** on family history here. And I add here and save while server is running.
 
 
  have always been fascinated by ecotones--spaces where human and nonhuman elements intersect and interact. Wolf reintroduction, or the return of megafauna to their former habitat, is no exception. While I am a proponent of wolf reintroduction, I acknowledge that I am also an outsider to the issue. My perspective is limited to one experience--that of a Natural Lands Trust volunteer from Pennsylvania--a hunter who sustainably managed whitetail deer populations. My actions functioned to replace deer's natural predators while also feeding my family. If more coyotes or wolves were present in my home state, hunting would undoubtedly be harder--prey would be more spooked and/or less abundant.
