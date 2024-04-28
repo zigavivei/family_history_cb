@@ -1,9 +1,37 @@
 ---
-title: Future Research of the Knuckles Family
+title: Continued Research of Clarence Knuckles
 order: 5
 layout: essay
-permalink: /5futureresearch.html
+permalink: /5continuedresearch.html
 ---
+
+
+A note on the research.
+
+More difficult items to find that took many hours of manual search.
+
+
+Probate records can possibly exist, but I was not able to find them within the scope of Clarence Knuckles or the limited scope of this project.
+
+
+Otherwise here are interesting documents that help fill out previous research
+
+
+
+
+1950 Federal Census
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% include feature/video.html objectid="https://youtu.be/PNXzYmDh7SA" caption=false width="full" %}
 

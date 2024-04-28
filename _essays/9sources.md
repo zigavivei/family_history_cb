@@ -5,13 +5,11 @@ layout: essay
 permalink: /9sources.html
 ---
 
-Bass, Rick.  _The Ninemile Wolves_. Houghton Mifflin, 2003. 
-
 1.
 
 1930 U.S. Census, population schedule, Gowdeysville, Cherokee, South Carolina, p. 6B, dwelling 106, family 106, Clarence Knuckles; database with images, Ancestry.com (https://ancestry.com: accessed 20 January 2024); citing FHL microfilm 2341925. 
 
-1940 U.S. Census, population schedule, Draytonville, Cherokee, South Carolina, p. 4A, dwelling 53, family 106, Clarence Knuckles; database with images, Ancestry.com (https://ancestry.com: accessed 20 January 2024); citing microfilm m-t0627-03797.
+1940 U.S. Census, population schedule, Draytonville, Cherokee, South Carolina, p. 4A, dwelling 53, family 106, Clarence Knuckles; database with images, Ancestry.com (https://ancestry.com: accessed 10 February 2024); citing microfilm m-t0627-03797.
 
 2.
 
@@ -25,17 +23,46 @@ Bass, Rick.  _The Ninemile Wolves_. Houghton Mifflin, 2003.
 
 South Carolina Department of Archives and History, Death Records, 1821-1968, certificate 57-000352, 2 January 1967, Clarence Knuckles; Department of Archives and History, Columbia South Carolina. Division of Vital Statistics, State Board of Health, Standard Certificate of Death, File No. 52 0014732, 23 October 1952, Elizabeth Hardy Knuckles, South Carolina.
 
-Hughes, Kieran. _Wolves and Trophic Cascades. YouTube_, 11 Apr. 2023, [youtu.be/Pjv_r8sBPhY](https://youtu.be/Pjv_r8sBPhY){:target="_blank" rel="noopener"}
+4.
 
-Legler, Gretchen.  _All the Powerful Invisible Things: A Sportswoman's Notebook_. Seal Press, 1995. 
+Picture of tombstone, FindAGrave (https://findagrave.com: accessed 20 January 2024) Rev Iziea Knuckles, Mulberry Chapel Methodist Church Cemetery, Cherokee County, South Carolina, memorial ID 127798901.
 
-Palmedo, Philip F.  _Deep Affinities: Art and Science_, 2020.  
+5.
 
-Phillips, Roger. "Is There a Difference between a Idaho Grey Wolf and a Northern Canadian Wolf." _Idaho Department Fish and Game_, Idaho Official Government Website, 26 Sept. 2018, [https://idfg.idaho.gov/d7/question/there-difference-between-idaho-grey-wolf-and-northern-canadian-wolf](https://idfg.idaho.gov/d7/question/there-difference-between-idaho-grey-wolf-and-northern-canadian-wolf){:target="_blank" rel="noopener"}
+"Mulberry Chapel." SC Picture Project, August 12, 2019. https://www.scpictureproject.org/cherokee-county/mulberry-chapel.html.
 
-"2021 Legislation: Senate Bill 1211." Idaho State Legislature, _Idaho State Legislature_, 5 May 2021, [https://legislature.idaho.gov/](https://legislature.idaho.gov/){:target="_blank" rel="noopener"}
+6.
 
-Weik von Mossner, Alexa.  _Affective Ecologies : Empathy, Emotion, and Environmental Narrative_. The Ohio State University Press, 2017. 
+1870 U.S. Census, population schedule, Draytonville, Union County, South Carolina, page 8, dwelling 56, family 57, Isaiah Knuckles; database with images, FamilySearch.org (https://familysearch.org: accessed 20 January 2024), citing NARA microfilm series M593, Roll 1510.
 
- "Wolves Part 4 Unforeseen Impacts Caused by Wolves in Idaho." _Idaho Rangeland Resource Commission_, Idaho Rangeland Resource Commission, 2019, 
-[https://idrange.org/range-stories/north-central-idaho/unforeseen-impacts-caused-by-wolves-in-idaho/](https://idrange.org/range-stories/north-central-idaho/unforeseen-impacts-caused-by-wolves-in-idaho/){:target="_blank" rel="noopener"}
+7.
+
+1900 U.S. Census, population schedule, Draytonville, Cherokee, South Carolina, page 60A, ED 5, dwelling 138, family 139, Clarence Knuckles; database with images, Ancestry.com (https://ancestry.com: accessed 20 January 2024); citing FHL microfilm 1241522. South Carolina Department of Archives and History, Death Records, 1821-1968, certificate 57-000352, 2 January 1967, Clarence Knuckles; Department of Archives and History, Columbia South Carolina.
+
+8.
+
+"U.S, World War I Draft Registration Cards, 1917-1918," images, Ancestry.com (https://www.ancestry.com/interactive/6482/005152292_04228/24144498: accessed 20 January 2024), card for Clarence Knuckles, serial no. 1998, Cherokee, South Carolina.
+
+9.
+
+Picture of tombstone, FindAGrave (https://findagrave.com: accessed 20  Jan 2024) Clarence Knuckles, Mount Tabor Baptist Church Cemetery, Gaffney, Cherokee County, South Carolina, memorial ID 55169170.
+
+10.
+
+USS Tjisondari. Accessed January 24, 2024. https://www.historycentral.com/navy/Steamer/tjisondari.html.
+
+11.
+
+1920 U.S. Census, population schedule, Gowdeysville, Cherokee County, South Carolina, p. 2A, dwelling 27, family 27, Clarence Knuckles; database with images, Ancestry.com (https://ancestry.com: accessed 20 January 2024); citing NARA microfilm publication M432, roll 187.
+
+12.
+
+1930 U.S. Census, population schedule, Gowdeysville, Cherokee, South Carolina, p. 6B, dwelling 106, family 106, Clarence Knuckles; database with images, Ancestry.com (https://ancestry.com: accessed 20 January 2024); citing FHL microfilm 2341925. 
+
+1940 U.S. Census, population schedule, Draytonville, Cherokee, South Carolina, p. 4A, dwelling 53, family 106, Clarence Knuckles; database with images, Ancestry.com (https://ancestry.com: accessed 21 January 2024); citing microfilm m-t0627-03797.
+
+13.
+
+South Carolina Department of Archives and History, Death Records, 1821-1968, certificate 57-000352, 2 January 1967, Clarence Knuckles; Department of Archives and History, Columbia South Carolina. 
+
+Picture of tombstone, FindAGrave (https://findagrave.com: accessed 22 January 2024) Clarence Knuckles, Mount Tabor Baptist Church Cemetery, Gaffney, Cherokee County, South Carolina, memorial ID 55169170.
