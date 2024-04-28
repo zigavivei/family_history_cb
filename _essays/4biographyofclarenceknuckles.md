@@ -29,4 +29,4 @@ Clarence Knuckles died a widower on 2 January 1967 at age 76 in Cherokee County 
 
 {% include feature/image.html objectid="knuckles_clarence_death_certificate" caption="Clarence Knuckles Death Certificate." %}
 
-{% include feature/image.html objectid="knuckles_clarence_gravestone" caption="Clarence Knuckles Gravestone." %}
+{% include feature/image.html objectid="knuckles_clarence_gravestone" caption="Clarence Knuckles Gravestone: Photograph by Richard Jordan." %}
