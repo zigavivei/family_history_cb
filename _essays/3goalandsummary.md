@@ -13,17 +13,24 @@ The goal of this project was to find as much information as possible about Clare
 
 ## Summary of Findings
 
-Most of the Relevant Censuses were found for Clarence, Odessa, Isiah, and Elizabeth. The 1930 and 1940 census records help prove a marriage between Clarence and Odessa, even though a marriage record was not initially found.[(1)](https://zigavivei.github.io/family_history_cb/sources.html)
+Most of the Relevant Censuses were found for Clarence, Odessa, Isiah, and Elizabeth. The 1930 and 1940 census records help prove a marriage between Clarence and Odessa, even though a marriage record was not initially found.[(1)](https://zigavivei.github.io/family_history_cb/9sources.html)
 
-{% include feature/image.html objectid="knuckles_clarence_gravestone" caption="Clarence Knuckles Gravesite" %}
+{% include feature/image.html objectid="knuckles_clarence_1930_census" caption="The 1930 U.S. Population Schedule featuring Clarence Knuckles and his family." %}
 
-In the case of Isiah and Elizabeth, their appearance together in the 1900, 1910, and 1920 census help to prove their marriage.[(2)](https://zigavivei.github.io/family_history_cb/sources.html)
+In the case of Isiah and Elizabeth, their appearance together in the 1900, 1910, and 1920 census help to prove their marriage.[(2)](https://zigavivei.github.io/family_history_cb/9sources.html)
 
-Death Certificates of Clarence and Elizabeth help to piece together family information and help prove their marriages as well.[(3)](https://zigavivei.github.io/family_history_cb/sources.html)
+Death Certificates of Clarence and Elizabeth help to piece together family information and help prove their marriages as well.[(3)](https://zigavivei.github.io/family_history_cb/9sources.html)
 
-The presumed gravestone of Isiah has "Rev." before his name which suggests that he was a reverend, most likely a reverend of the Mulberry church in whose cemetery he was buried.[(4)](https://zigavivei.github.io/family_history_cb/sources.html) Further research into the history of the cemetery revealed that a prominent member of the society, Samuel Knuckles, one of the first African American representatives, in the south, was also buried there. He had served in the South Carolina House of Representatives during Reconstruction.[(5)](https://zigavivei.github.io/family_history_cb/sources.html) An Isiah appears in the 1870 census along with his father named Samuel.[(6)](https://zigavivei.github.io/family_history_cb/sources.html) It could be that Isiah was the son of Samuel and their ties to the church caused Isiah to become a reverend there. 
+{% include feature/image.html objectid="knuckles_clarence_death_certificate" caption="Clarence Knuckles Death Certificate" %}
+
+The presumed gravestone of Isiah has "Rev." before his name which suggests that he was a reverend, most likely a reverend of the Mulberry church in which cemetery he was buried.[(4)](https://zigavivei.github.io/family_history_cb/sources.html) 
 
 
+{% include feature/image.html objectid="knuckles_isaiah_rev_gravestone" caption="The gravestone of Reverend Isaiah Knuckles." %}
+
+Further research into the history of the cemetery revealed that a prominent member of the society, Samuel Knuckles, one of the first African American representatives, in the south, was also buried there. He had served in the South Carolina House of Representatives during Reconstruction.[(5)](https://zigavivei.github.io/family_history_cb/9sources.html) An Isiah appears in the 1870 census along with his father named Samuel.[(6)](https://zigavivei.github.io/family_history_cb/9sources.html) It could be that Isiah was the son of Samuel and their ties to the church caused Isiah to become a reverend there. 
+
+{% include feature/image.html objectid="knuckles_isaiah_1870_census" caption="The 1870 U.S. Population Schedule featuring Isaiah Knuckles and his family, including his father Samuel Knuckles." %}
 
 
 

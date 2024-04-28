@@ -22,7 +22,7 @@ Otherwise here are interesting documents that help fill out previous research
 1950 Federal Census
 
 
-
+Elizabeth Knuckles Death Certificate
 
 
 

@@ -21,7 +21,9 @@ permalink: /9sources.html
 
 3.
 
-South Carolina Department of Archives and History, Death Records, 1821-1968, certificate 57-000352, 2 January 1967, Clarence Knuckles; Department of Archives and History, Columbia South Carolina. Division of Vital Statistics, State Board of Health, Standard Certificate of Death, File No. 52 0014732, 23 October 1952, Elizabeth Hardy Knuckles, South Carolina.
+South Carolina Department of Archives and History, Death Records, 1821-1968, certificate 57-000352, 2 January 1967, Clarence Knuckles; Department of Archives and History, Columbia South Carolina. 
+
+Division of Vital Statistics, State Board of Health, Standard Certificate of Death, File No. 52 0014732, 23 October 1952, Elizabeth Hardy Knuckles, South Carolina.
 
 4.
 

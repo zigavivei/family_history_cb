@@ -1,8 +1,8 @@
 ---
-title: Branching Out
+title: Efficacy of CollectionBuilder and Family History Work
 order: 7
 layout: essay
-permalink: /7branching-out.html
+permalink: /7collectionbuilderfhw.html
 ---
 
 Whereas research papers can be confined to universities, databases, and academic research, art can branch out in multiple directions and reach more audiences. It is for this reason that I turned to visual arts, not just for their aesthetic value but also for their accessibility. Artists do not provide definite answers--they pose questions. While they can have biases or intentions behind a piece, their ultimate goal is to get viewers thinking about subjects from a different perspective. With wolf reintroduction, a topic with many polarized stances, it's important to me that viewers can see this subject from multiple viewpoints.
