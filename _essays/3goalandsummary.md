@@ -13,7 +13,9 @@ The goal of this project was to find as much information as possible about Clare
 
 ## Summary of Findings
 
-Most of the Relevant Censuses were found for Clarence, Odessa, Isiah, and Elizabeth. The 1930 and 1940 census records help prove a marriage between Clarence and Odessa, even though a marriage record was not found.[(1)](https://zigavivei.github.io/family_history_cb/sources.html)
+Most of the Relevant Censuses were found for Clarence, Odessa, Isiah, and Elizabeth. The 1930 and 1940 census records help prove a marriage between Clarence and Odessa, even though a marriage record was not initially found.[(1)](https://zigavivei.github.io/family_history_cb/sources.html)
+
+{% include feature/image.html objectid="knuckles_clarence_gravestone" caption="Clarence Knuckles Gravesite" %}
 
 In the case of Isiah and Elizabeth, their appearance together in the 1900, 1910, and 1920 census help to prove their marriage.[(2)](https://zigavivei.github.io/family_history_cb/sources.html)
 
