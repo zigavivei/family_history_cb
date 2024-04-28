@@ -13,18 +13,18 @@ url: https://zigavivei.github.io
 baseurl: /family_history_cb
 # change name on github and then this to match it
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/zigavivei/family_history_cb
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Family History and CollectionBuilder
+title: CollectionBuilder and Family History
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: A Report of Clarence Knuckle's Family and the Feasibility of CollectionBuilder in Family History Projects
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Clarence Knuckles: A Genealogical Report and Family History Collection"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: south carolina;family history;census
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
