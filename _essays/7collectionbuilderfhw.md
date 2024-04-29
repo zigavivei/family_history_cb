@@ -5,12 +5,12 @@ layout: essay
 permalink: /7collectionbuilderfhw.html
 ---
 
+## A Success 
 
-I think the most surprising aspect of my project was learning how deep and versatile CollectionBuilder is. The same software that can build a robust, easy-to-use, digital collection site is also quite deep and customizable. I don't completely understand the coding involved and how everything fits together, but I've been able to learn at least some of what is relevant within the scope of my project and collection. It has been fun to learn first hand. 
+I think the most surprising aspect of my project was learning how deep and versatile CollectionBuilder is. The same software that can build a robust, easy-to-use, digital collection site is also quite deep and customizable. I don't completely understand the coding involved and how everything fits together, but I've been able to learn at least some of what is relevant within the scope of my project and collection. It has been fun to learn first hand. I had nearly zero coding experience coming into this and I spent a good chunk of time just trying to wrap my head around all the new language.
 
-CollectionBuilder in it's most basic forms, 
+A person can use CollectionBuilder in it's most basic templates, both Google Sheets and GitHub pages, to build and format a digital collection without too much extra work on the part of the builder as long as the proper steps are followed. Both basic forms require some knowledge in how metadata functions and is used. Even minor misspellings can cause a website to break. The CSV template provides a wide range of customization options at the range of increased complication on the level of the code, as well as increased probability of user error. It is my suggestion that a user attempting to use CollectionBuilder start by building easier test collections, using Google Sheets and GitHub pages, before working with the CSV templates.
 
-I think the major thing I've learned thus far in this project is to not be afraid to ask for help. Lots of people know a whole lot more than me, so i can struggle in silence or ask someone and progress. 
+CollectionBuilder is customizable enough to allow a living breathing family history report. Documents can be added as they are found and new pages of histories and research can be included as historical dots are connected.
 
-
-Going forward, there will be more work done in completing my collections website. I imagine most of my problems will be during this portion, troubleshooting the layout and formatting of the site as I continue to learn how this all fits together. 
+I think CollectionBuilder is a great resource as a new way to present family history research, but the CSV template has a high learning curve that may prevent new users from fully using all the features available. I think learning the system is worth the work as it has brought joy to myself and others. 
