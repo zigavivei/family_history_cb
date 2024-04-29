@@ -12,7 +12,7 @@ CollectionBuilder is "an open source framework for creating digital collection a
 
 ## CollectionBuilder
 
-I was interested in using CollectionBuilder because of the way it can seamlessly blend text, images, video, and other files together. 
+I'm interested in using CollectionBuilder because of the way it can seamlessly blend text, images, video, and other files together. 
 
 Before this project, I was not well versed in CollectionBuilder; I only had completed one project with CollectionBuilder up to this point and knew very little. The previous project implemented a more user-friendly version of the framework that didn't require much work to bring online. My lack of knowledge is beneficial for this project as I'll be making an analysis of the tutorials and walkthroughs that they have developed for their new users. In helping the team develop their literature, I will also develop my understanding of the way the system is used, which will enable me to create a better proof of concept when it comes to creating a family history report using their system.  
 
