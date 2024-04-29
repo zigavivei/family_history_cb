@@ -16,9 +16,9 @@ The cemeteries where the families are buried provide a hint of religious affilia
 
 Samuel Knuckles is likely Isaiah Knuckles father. Finding more documents linking them would help to establish family ties and further research options. Additionally there are brief reports online about Samuel Knuckles that could provide more insight into their family history.
 
-A closer look at the 1950 Federal Census provides names of individuals with more contemporary connections to modern descendants 
+A closer look at the 1950 Federal Census can provide names of individuals with more contemporary connections to modern, living descendants. 
 
-Additionally, finding Elizabeth Knuckles death certificate can be useful in establishing a concrete marriage to Isiah
+Additionally, finding Elizabeth Knuckles death certificate can be useful in establishing a concrete marriage to Isiah, as well as establishing a route of researching her side of the family.
 
 
 
