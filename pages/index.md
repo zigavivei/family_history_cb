@@ -1,6 +1,6 @@
 ---
 layout: custom-home
-title: Family History and CollectionBuilder
+title: CollectionBuilder and Family History
 permalink: /
 ---
 
