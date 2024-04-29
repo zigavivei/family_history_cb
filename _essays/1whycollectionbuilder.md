@@ -8,7 +8,7 @@ permalink: /1whycollectionbuilder.html
 
 ## Abstract
 
-CollectionBuilder is "an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology"[(0)](https://collectionbuilder.github.io/) developed by the University of Idaho. This project aimed to test the feasibility and framework of CollectionBuider within the scope of presenting family history research and reports. Acting as a new user, the project helped refine documentation and tutorials. The outcome of this project is a family history research report, the first family history report developed within the CollectionBuilder framework, as well as a review of my experience and efficacy of CollectionBuilder in presenting family history work.
+CollectionBuilder is "an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology"[(0)](https://collectionbuilder.github.io/) developed by the University of Idaho. This project aimed to test the feasibility and framework of CollectionBuilder within the scope of presenting family history research and reports. Acting as a new user, the project helped refine documentation and tutorials. The outcome of this project is a family history research report, the first family history report developed within the CollectionBuilder framework, as well as a review of my experience and efficacy of CollectionBuilder in presenting family history work.
 
 ## CollectionBuilder
 
