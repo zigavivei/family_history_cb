@@ -6,7 +6,7 @@ permalink: /7collectionbuilderfhw.html
 ---
 
 
-I think the most surprising aspect of my project was learning how deep and versatile CollectionBuilder is. The same software that can build a robust, easy-to-use, digital collection site is also quite deep. I don't completely understand the coding involved and how everything fits together, but I've been able to learn at least some of what is relevant within the scope of my project and collection. Though I've been told it is easy for first time users and malleable for veteran users, its been fun to learn it first hand. 
+I think the most surprising aspect of my project was learning how deep and versatile CollectionBuilder is. The same software that can build a robust, easy-to-use, digital collection site is also quite deep and customizable. I don't completely understand the coding involved and how everything fits together, but I've been able to learn at least some of what is relevant within the scope of my project and collection. It has been fun to learn first hand. 
 
 
 
