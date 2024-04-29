@@ -13,4 +13,4 @@ A person can use CollectionBuilder in it's most basic templates, both Google She
 
 CollectionBuilder is customizable enough to allow a living breathing family history report. Documents can be added as they are found and new pages of histories and research can be included as historical dots are connected.
 
-I think CollectionBuilder is a great resource as a new way to present family history research, but the CSV template has a high learning curve that may prevent new users from fully using all the features available. I think learning the system is worth the work as it has brought joy to myself and others. 
+I think CollectionBuilder is a great resource as a new way to present family history research, but the CSV template has a high learning curve that may prevent new users from fully using all the features available. I think learning the system is worth the work to harness the full capabilities of the system. 
