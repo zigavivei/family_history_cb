@@ -19,11 +19,11 @@ In the case of Iziea and Elizabeth, their appearance together in the 1900, 1910,
 
 {% include feature/image.html objectid="knuckles_clarence_1900_census" caption="The 1900 U.S. Population Schedule featuring Iziea Knuckles and family near the bottom of the page." %}
 
-The Death Certificate of Clarence help to piece together family information and help prove marriage relationships as well.[(3)](https://zigavivei.github.io/family_history_cb/9sources.html) An index that pointed to Elizabeth Knuckles', Clarence's mother, death certificate was found, but further searching will need to take place to find the document.
+The death certificate of Clarence help to piece together family information and help prove marriage relationships as well.[(3)](https://zigavivei.github.io/family_history_cb/9sources.html) An index that pointed to Elizabeth Knuckles', Clarence's mother, death certificate was found, but further searching will need to take place to find the document.
 
 {% include feature/image.html objectid="knuckles_clarence_death_certificate" caption="Clarence Knuckles Death Certificate" %}
 
-The presumed gravestone of Iziea has "Rev." before his name which suggests that he was a reverend, most likely a reverend of the Mulberry church in which cemetery he was buried.[(4)](https://zigavivei.github.io/family_history_cb/sources.html) 
+The presumed gravestone of Iziea has "Rev." before his name which suggests that he was a reverend of the Mulberry church in which cemetery he was buried.[(4)](https://zigavivei.github.io/family_history_cb/sources.html) 
 
 
 {% include feature/image.html objectid="knuckles_isaiah_rev_gravestone" caption="The gravestone of Reverend Iziea Knuckles: Photograph by Archie and Dianne Lowry Fowler." %}
