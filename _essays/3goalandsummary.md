@@ -7,11 +7,11 @@ permalink: /3goalandsummary.html
 
 ## Project Goal
 
-The goal of this project was to find as much information as possible about Clarence Knuckles and his wife Odessa Smith through a search of census and vital records. The same work was also done in researching Clarence Knuckles' parents, Iziea(sounds like Isaiah) Knuckles and Elizabeth Hardy. 
+The goal of this project was to find as much information as possible about Clarence Knuckles and his wife Odessa Smith through a search of census and vital records. The same work was also done in researching Clarence Knuckles' parents, Iziea (sounds like Isaiah) Knuckles and Elizabeth Hardy. 
 
 ## Summary of Findings
 
-Most of the Relevant Censuses were found for Clarence, Odessa, Iziea, and Elizabeth. The 1930 and 1940 census records help prove a marriage between Clarence and Odessa, even though a marriage record was not initially found.[(1)](https://zigavivei.github.io/family_history_cb/9sources.html)
+Most of the relevant censuses were found for Clarence, Odessa, Iziea, and Elizabeth. The 1930 and 1940 census records help prove a marriage between Clarence and Odessa, even though a marriage record was not initially found.[(1)](https://zigavivei.github.io/family_history_cb/9sources.html)
 
 {% include feature/image.html objectid="knuckles_clarence_1930_census" caption="The 1930 U.S. Population Schedule featuring Clarence Knuckles and his family." %}
 
