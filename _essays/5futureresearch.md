@@ -14,7 +14,7 @@ The family of Clarence and Isiah stayed in relatively the same place throughout 
 
 The cemeteries where the families are buried provide a hint of religious affiliation. There's a chance that some church records still exist. The Church that Isiah and Lizzie attended and were buried next to, the Mulberry church, ceased to function in the 1940s, so a search for those may prove difficult without traveling to a local history group or library.
 
-Samuel Knuckles is likely Isaiah Knuckles father. Finding more documents linking them would help to establish family ties and further research options. Additionally there are brief reports online about Samuel Knuckles that could provide more insight into their family history.
+Samuel Knuckles is likely Iziea Knuckles father. Finding more documents linking them would help to establish family ties and further research options. Additionally there are brief reports online about Samuel Knuckles that could provide more insight into their family history.
 
 A closer look at the 1950 Federal Census can provide names of individuals with more contemporary connections to modern, living descendants. 
 

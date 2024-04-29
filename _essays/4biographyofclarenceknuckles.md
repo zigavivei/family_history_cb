@@ -13,7 +13,7 @@ At age 27 in his WWI draft registration card he is described as a "single negro 
 
 {% include feature/image.html objectid="knuckles_clarence_draft_registration_card" caption="Clarence Knuckles World War I Draft Registration Card." %}
 
-He eventually made it back home where he continued to work for his father Isaiah.[(11)](https://zigavivei.github.io/family_history_cb/9sources.html)
+He eventually made it back home where he continued to work for his father Iziea.[(11)](https://zigavivei.github.io/family_history_cb/9sources.html)
 
 {% include feature/image.html objectid="knuckles_clarence_1920_census" caption="The 1920 U.S. Population Schedule featuring Clarence Knuckles and his family." %}
 
