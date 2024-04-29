@@ -5,6 +5,22 @@ layout: essay
 permalink: /7collectionbuilderfhw.html
 ---
 
+
+I think the most surprising aspect of my project was learning how deep and versatile CollectionBuilder is. The same software that can build a robust, easy-to-use, digital collection site is also quite deep. I don't completely understand the coding involved and how everything fits together, but I've been able to learn at least some of what is relevant within the scope of my project and collection. Though I've been told it is easy for first time users and malleable for veteran users, its been fun to learn it first hand. 
+
+
+
+I think the major thing I've learned thus far in this project is to not be afraid to ask for help. Lots of people know a whole lot more than me, so i can struggle in silence or ask someone and progress. 
+
+
+Going forward, there will be more work done in completing my collections website. I imagine most of my problems will be during this portion, troubleshooting the layout and formatting of the site as I continue to learn how this all fits together. 
+
+
+
+
+
+
+
 Whereas research papers can be confined to universities, databases, and academic research, art can branch out in multiple directions and reach more audiences. It is for this reason that I turned to visual arts, not just for their aesthetic value but also for their accessibility. Artists do not provide definite answers--they pose questions. While they can have biases or intentions behind a piece, their ultimate goal is to get viewers thinking about subjects from a different perspective. With wolf reintroduction, a topic with many polarized stances, it's important to me that viewers can see this subject from multiple viewpoints.
 
 Art can combine different modes of information in an interdisciplinary and engaging way. In his book _Deep Affinities: Art and Science_, Philip Palmedo explores the long-standing history (Paleolithic to modern day) of human art and science, two endeavors that have helped us to both understand and appreciate our world. Similar to science, art involves translation, converting the perceived world into symbolic form: "schematization," the reduction of a figure to its essential traits. This concept of "essential traits" brings art close to the nature of science (Palmedo 16-18). By schematizing the abstract historical, sociological and ecological dimensions of wolf reintroduction, I aim to make it more understandable for audiences. 
